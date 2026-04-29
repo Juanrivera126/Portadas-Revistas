@@ -1,6 +1,6 @@
 # Portadas de revistas
 
-Pequeña interfaz para previsualizar plantillas de portadas y gestionar la generación/descarga de imágenes.
+Pequeña interfaz para previsualizar plantillas de portadas y gestionar la generación/descarga de imágenes, usando las API de [Pollinations](https://pollinations.ai/).
 
 ## Descripción
 Esta página permite seleccionar una "plantilla" (Modelo 1..7), ver una miniatura y editar un "system prompt" que describe la portada. Las miniaturas se leen desde la carpeta `images/` (archivos `modelo1.png`, `modelo2.png`, ...).
