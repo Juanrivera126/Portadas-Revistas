@@ -1,0 +1,38 @@
+/* Reutilizado desde la app de modelos */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #eff0f1;
+    margin: 0;
+    padding: 20px;
+    display: block;
+}
+
+.container {
+    width: 1100px;
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+}
+
+label { font-weight: bold; color: #0072df; margin-bottom: 1px; display: block; font-size: 12px; }
+select, input[type="text"], input[type="password"], textarea { width:100%; padding:6px 8px; font-size:13px; border:1px solid #ccc; border-radius:4px; box-sizing:border-box; }
+
+button.action-btn { background-color: #007ef6; color: white; padding: 6px; font-size: 14px; border-radius:6px; }
+.action-btn { cursor:pointer; }
+
+.api-key-container { background: #eef7ff; padding: 8px; border-radius: 6px; border: 1px solid #cce5ff; margin-bottom: 6px; }
+.api-row { display:flex; gap:6px; }
+
+#img-container { border: 3px solid #0058fe; border-radius:4px; overflow:hidden; background:#fff; display:flex; justify-content:center; align-items:center; }
+#img-preview { max-width:100%; max-height:100%; object-fit:cover; }
+
+/* Centering helpers for right preview area already using flex in HTML */
+
+.loading-text { font-size:16px; color:#20303a; background: rgba(255,255,255,0.9); padding:8px 12px; border-radius:6px; z-index:20; }
+
+/* small helpers */
+.row { display:flex; gap:10px; align-items:center; }

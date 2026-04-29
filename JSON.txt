@@ -1,0 +1,86 @@
+{
+  "page_1": {
+    "paleta_colores": ["#3A2CA0", "#FFFFFF", "#D9D9D9", "#6C63FF"],
+    "tipografia": {
+      "principal": "Serif elegante",
+      "secundaria": "Script/caligrafía",
+      "estilo": "Decorativa y creativa"
+    },
+    "estilo_ilustracion": "Ilustración vectorial tipo doodle con trazos lineales y elementos gráficos planos",
+    "estructura": "Composición horizontal con ilustración a la izquierda y título dentro de una forma ovalada a la derecha",
+    "elementos_decorativos": ["estrellas", "formas abstractas", "textura de puntos", "rejilla de fondo"],
+    "tono_visual": "Creativo, juvenil, artístico"
+  },
+  "page_2": {
+    "paleta_colores": ["#000000", "#8B0000", "#FF0000", "#FFFFFF"],
+    "tipografia": {
+      "principal": "Sans-serif futurista",
+      "secundaria": "Sans-serif ligera",
+      "estilo": "Glow/neón con efecto luminoso"
+    },
+    "estilo_ilustracion": "Fondo abstracto con ondas fluidas y gradientes",
+    "estructura": "Texto centrado sobre fondo dinámico oscuro con curvas envolventes",
+    "elementos_decorativos": ["ondas luminosas", "gradientes rojos", "efecto brillo"],
+    "tono_visual": "Tecnológico, dramático, intenso"
+  },
+  "page_3": {
+    "paleta_colores": ["#1B1F3B", "#00D4FF", "#6C63FF", "#FFFFFF"],
+    "tipografia": {
+      "principal": "Sans-serif bold futurista",
+      "secundaria": "Sans-serif geométrica",
+      "estilo": "Tecnológico con iluminación neón"
+    },
+    "estilo_ilustracion": "Render 3D de manos robóticas + interfaz HUD futurista",
+    "estructura": "Elemento central (título) en panel tipo pantalla, manos robóticas a los lados",
+    "elementos_decorativos": ["rejilla digital", "marcos HUD", "destellos de luz"],
+    "tono_visual": "Futurista, tecnológico, innovador"
+  },
+  "page_4": {
+    "paleta_colores": ["#0F2027", "#203A43", "#2C5364", "#00C9A7", "#FFFFFF"],
+    "tipografia": {
+      "principal": "Sans-serif moderna",
+      "secundaria": "Sans-serif ligera",
+      "estilo": "Corporativo y limpio"
+    },
+    "estilo_ilustracion": "Render hiperrealista de robot humanoide",
+    "estructura": "Imagen dominante a la derecha, texto alineado a la izquierda",
+    "elementos_decorativos": ["redes neuronales", "puntos conectados", "logo corporativo"],
+    "tono_visual": "Profesional, corporativo, tecnológico"
+  },
+  "page_5": {
+    "paleta_colores": ["#2E004F", "#FF8C42", "#FFD700", "#FFFFFF"],
+    "tipografia": {
+      "principal": "Sans-serif bold",
+      "secundaria": "Sans-serif regular",
+      "estilo": "Minimalista con énfasis en contraste"
+    },
+    "estilo_ilustracion": "Fondo abstracto con partículas y ondas punteadas",
+    "estructura": "Texto centrado con elementos fluidos en los bordes",
+    "elementos_decorativos": ["patrones de puntos", "gradientes", "formas orgánicas"],
+    "tono_visual": "Moderno, elegante, tecnológico"
+  },
+  "page_6": {
+    "paleta_colores": ["#FADADD", "#FF7A5C", "#FFB347", "#FFFFFF"],
+    "tipografia": {
+      "principal": "Sans-serif bold",
+      "secundaria": "Sans-serif ligera",
+      "estilo": "Moderna y amigable"
+    },
+    "estilo_ilustracion": "Render 3D con formas translúcidas y efecto vidrio (glassmorphism)",
+    "estructura": "Elemento central tipo tarjeta flotante con cintas envolventes",
+    "elementos_decorativos": ["cintas translúcidas", "efecto blur", "capas superpuestas"],
+    "tono_visual": "Creativo, moderno, suave"
+  },
+  "page_7": {
+    "paleta_colores": ["#F4F1DE", "#3D5A80", "#EE6C4D", "#E0A458"],
+    "tipografia": {
+      "principal": "Sans-serif redondeada",
+      "secundaria": "Sans-serif simple",
+      "estilo": "Amigable y educativo"
+    },
+    "estilo_ilustracion": "Ilustración vectorial plana estilo educativo",
+    "estructura": "Composición centrada con bloque principal de contenido",
+    "elementos_decorativos": ["iconos de libros", "formas orgánicas", "líneas punteadas", "estrellas pequeñas"],
+    "tono_visual": "Didáctico, amigable, informal"
+  }
+}
